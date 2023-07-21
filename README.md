@@ -1,1 +1,1 @@
-# AdvancedAirjump
+Advanced Airjump is a mod for the game Gorilla Tag that gives you two white spheres in your hands if you are in a modded lobby and you have the mod enabled you can press the grip button to add collisions so that you can walk on it
